@@ -27,8 +27,6 @@ Breadth-First Search (BFS)
 
 Depth-First Search (DFS)
 
-(Optional) Graphics Library: Can integrate libraries like SFML or OpenGL for map rendering
-
 🧩 How It Works
 Graph Representation:
 
